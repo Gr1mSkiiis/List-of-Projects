@@ -6,7 +6,7 @@ Welcome to my home lab repository, where I document, build, and experiment with 
 - pfSense firewall policies & DMZ setup  
 - Cisco switch and router configuration  
 - Wireless access point deployment  
-- Network monitoring (ICINGA, SolarWinds)  
+- Network monitoring  
 - DNS sinkholing with Pi-hole  
 - Remote access, NAT, and port forwarding  
 - Network security labs & honeypots
@@ -40,7 +40,7 @@ Each project folder includes:
 
 - Build enterprise-grade topologies on a budget  
 - Improve skills in firewalling, VLANs, routing, and wireless design  
-- Prepare for certifications (e.g., Network+, CCNA, Security+)  
+- Prepare for the CCNA certification 
 - Document projects clearly for reproducibility and growth  
 
 ---
