@@ -1,13 +1,14 @@
-<h1>Hi, I'm Jordan! <br/> <a href="https://www.linkedin.com/in/jmartensitprofessional/">I am a IT Professional</a>
+<h1>🧠 Jordy's Networking Lab</h1>
 
-<h2>🛜 Networking Projects:</h2>
+<p>Welcome to my home lab repository, where I document, build, and experiment with real-world networking projects. This repo serves as a portfolio of hands-on configurations, designs, and tools related to:</p>
 
-- <b>Building a Home Network</b>
-  - [Home Network Topology](https://github.com/Gr1mSkiiis/Projects/blob/main/Network%20Topology.drawio.png)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Jordan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/jmartensitprofessional
+<ul>
+  <li>VLAN segmentation &amp; Layer 3 routing</li>
+  <li>pfSense firewall policies &amp; DMZ setup</li>
+  <li>Cisco switch and router configuration</li>
+  <li>Wireless access point deployment</li>
+  <li>Network monitoring</li>
+  <li>DNS sinkholing with Pi-hole</li>
+  <li>Remote access, NAT, and port forwarding</li>
+  <li>Network security labs &amp; honeypots</li>
+</ul>
