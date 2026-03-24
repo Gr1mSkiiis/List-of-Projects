@@ -1,4 +1,4 @@
-# 🧠 Jordy's Networking Lab
+# 🧠 Jordan's Networking Lab
 
 Welcome to my home lab repository, where I document, build, and experiment with real-world networking projects. This repo serves as a portfolio of hands-on configurations, designs, and tools related to:
 
